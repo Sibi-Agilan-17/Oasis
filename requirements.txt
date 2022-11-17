@@ -1,0 +1,6 @@
+discord.py==1.7.3
+stringcase==1.2.0
+Unidecode==1.2.0
+prsaw>=0.4.0
+discord-together==1.1.0
+better-profanity==0.7.0
